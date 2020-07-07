@@ -1,0 +1,68 @@
+Date: 01/04/2020
+Permalink: /circular-economy
+Thumbnail: _park.jpg
+Tags: Sustainability
+
+# What Is the Circular Economy?
+
+If you’ve heard the term “circular economy” but don’t really know what it’s all about, or if you've never even heard of it before, this handy overview will hopefully shed some light on the subject for you using Apple as an example.
+
+## It's About How We Use Materials
+
+In essence, the circular economy is all about how we use materials. If we buy something, use it and then throw it away, this is a linear economy. In a circular economy, products are designed and produced in a way that minimises wastage and that ensures that non-renewable resources are not lost forever. So rather than *consuming* products and materials, we *(re-)use* them instead.
+
+You're probably thinking that it's just recycling, right? Well yes, and no...
+
+![Paper Waste](_paper.jpg "Photo by Bas Emmen on Unsplash")
+
+Imagine buying a mobile phone, using it for two years, and then throwing it away. All the precious non-renewable resources and materials in the phone may be landfilled or incinerated. They are gone. Within a circular economy that phone may be reused at the end of its first useful life by someone else keeping the materials in use. When the phone no longer works it may be able to be repaired or refurbished so that it can be used again. If repair isn’t an option, then the phone should be disassembled into its component parts so that the materials can be used again in new products.  
+
+The above example should highlight that the circular economy is not just about recycling, but that it is also about designing out waste during production and ensuring a product can be used for as long as possible and only then be disassembled into component parts for recycling. The circular economy is about how we can keep materials in use for as long as possible with the least amount of effort.
+
+## The Business Case for Going Circular
+
+A good reason for adopting circular design is the fact that non-renewable resources (such as precious metals) are becoming scarcer and, therefore, more expensive. As a company, having customers return products at the end of their useful lives presents a great opportunity for obtaining these precious materials at a lower cost than buying them raw. As a result many companies are changing the way they do business to where they are inviting customers to return items when they no longer need them or by adopting leasing or rental models where customers lease products and then return them. After all, you can’t throw away what you don’t own. In turn, businesses using these business models are more inclined to design their products for easier refurbishment and disassembly as it makes it easier for them to turn their old products into new ones and create new value from the same materials.
+
+![Park](_park.jpg "Photo by Thomas Lambert on Unsplash")
+
+## Apple and the Circular Economy
+
+Apple are well-known for designing out waste during production and minimising the environmental impact of their products and activities even though they don't specifically talk about the circular economy.
+
+Apple have had a successful refurbishment programme for some time where returned items are refurbished and sold to customers, reducing waste and extending the life of their products. They have also designed their latest iPhones to be easily disassembled and have developed a robot called ‘Daisy’ which can recover 99% of materials from a used phone. All these materials can be used again to make new phones. To encourage customers to do this, Apple invites customers to give, or sell, their used phones back to Apple, but also now leases phones through their iPhone upgrade programme where phones are given back to Apple when customers upgrade. These features of Apple’s business plan, along with changes to the way Apple designs, manufactures, refurbishes and recycles their phones are great examples of circular thinking.
+
+Apple's approach is clearly working as [in 2018 the company refurbished more than 7.8 million Apple devices and helped divert more than 48,000 metric tons of electronic waste from landfills](https://www.apple.com/newsroom/2019/04/apple-expands-global-recycling-programs/).
+
+![Apple's Daisy Robot](_daisy.jpg "Photo by Apple")
+
+## Nothing Is Wasted
+
+A truly circular economy adopts methods that do not degrade resources or the natural environment and ensures zero waste with all materials staying in a loop of use and reuse. Waste should be designed out at every stage from design to manufacture to reuse to refurbishment to recycling. This also applies to the processes of production where renewable energy is favoured over non-renewable energy. Adoption of the circular economy also ensures that energy and labour used in the production of items is maximised and not wasted in itself.
+
+If you are familiar with the waste hierarchy which encourages prevention, reuse, recycling, recovery and ultimately disposal, the circular economy offers a similar cascading ‘hierarchy’ as to the best way to handle materials to ensure that the maximum value is extracted from items whilst avoiding waste. The circular economy tries to avoid destructive recovery (e.g. incineration for energy recovery) and disposal (e.g. landfill).
+
+## Biological vs Technical Components
+
+The circular economy separates materials into ‘biological’ and ‘technical’ components. Think of biological components as organic and renewable resources that can safely be returned to the environment as ‘nutrients’ like food and wood whilst technical components include items like plastics and metals which can not be returned to nature to naturally degrade.
+
+For biological components, items will naturally degrade but they can continue to be reused. A t-shirt, for example, could be reused second-hand by another user, repaired if possible, then could be turned into a stuffing material for furniture and then into a construction material before being returned to nature and allowed to degrade.
+
+![Textiles](_textiles.jpg "Photo by Ethan Bodnar on Unsplash")
+
+For technical components, the hierarchy, or cycle, is to maintain, reuse/redistribute, refurbish/remanufacture and then recycle. Maintaining an item is better than recycling an item as it should use less energy, time and labour to get the item back to a user unlike recycling which involves a whole new process of manufacturing which is energy, time and labour intensive.
+
+Items should also should be designed to stay at the lower end of the cycle for as long as possible - i.e. an item should be maintained for as long as possible, reused for as long as possible, refurbished to prolong the use of an item for as long as possible and only then be recycled.
+
+![Plastic](_plastic.jpg "Photo by John Cameron on Unsplash")
+
+## Avoid Contamination
+
+For both technical and biological components it is important to avoid contamination as this reduces the length of time these components can be usefully used. As such, toxic materials should be avoided as they can’t be reused and can contaminate other items. Glue, for example, may contain hazardous materials but can also contaminate items that it may be adhered to. In addition glue can often make repairs and disassembly tricky so this should be designed out as far as is possible.
+
+![Soldering](_soldering.jpg "Photo by Mariana B. on Unsplash")
+
+## In Summary
+
+A true circular economy exists where products are designed so that materials are never destroyed but where they can be reused, repaired, remanufactured and recycled keeping them in use for as long as possible with minimal effort. New thinking is required in product design and business models to enable this to work effectively.
+
+For more information, visit the [Ellen Macarthur Foundation](https://www.ellenmacarthurfoundation.org) who are championing the circular economy. They have lots of useful insights, examples and resources.

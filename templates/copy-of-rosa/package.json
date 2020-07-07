@@ -1,0 +1,51 @@
+{
+  "name": "Clearly",
+  "locals": {
+    "page_size": "1"
+  },
+  "views": {
+    "public.html": {
+      "partials": {
+        "title": "Index of {{{path}}}",
+        "description": "All the files and folders inside {{{path}}}"
+      }
+    },
+    "entry.html": {
+      "partials": {
+        "title": "{{{entry.title}}} - {{{title}}}",
+        "description": "{{{entry.summary}}}"
+      }
+    },
+    "error.html": {
+      "partials": {
+        "title": "{{{error.title}}} - {{{title}}}",
+        "description": "Error on {{{title}}}"
+      }
+    },
+    "tagged.html": {
+      "partials": {
+        "title": "Entries tagged {{{tag}}} from {{{title}}}",
+        "description": "All of the entries posted on {{{title}}} tagged {{{tag}}}"
+      }
+    },
+    "entries.html": {
+      "partials": {
+        "title": "{{{title}}}",
+        "description": "The latest entries posted on {{{title}}}"
+      }
+    },
+    "search.html": {
+      "partials": {
+        "title": "Search - {{{title}}}",
+        "description": "Search all the entries posted on {{{title}}}"
+      }
+    },
+    "articles.html": {
+      "url": "/articles",
+      "partials": {
+        "title": "Articles - {{{title}}}",
+        "description": "All the entries posted on {{{title}}}"
+      }
+    }
+  }
+}

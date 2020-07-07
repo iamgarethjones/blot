@@ -1,0 +1,152 @@
+Date: 09/04/2020
+Permalink: /ems-guide-part-1
+Thumbnail: _binoculars.jpg
+Tags: Sustainability
+
+# Part 1: Guide to Setting up an Environmental Management System
+
+Welcome to this guide to establishing an **Environmental Management System**, or **EMS**, which will help you identify the impacts that your business has, or has the potential to have, on the environment and help you create a plan for eliminating or reducing them. Doing so will also help you to comply with environmental legislation.
+
+There are several different standards, or models, that an EMS can have. Whilst you are free to design your own many organisations choose the main standard recognised around the world which has been designed by the International Organization for Standardization (ISO) which is called **ISO 14001**. At the time of writing the most up-to-date version of the standard is called **ISO 14001:2015** as the standard was last updated in 2015.
+
+Other standards include the **Eco-Management and Audit Scheme (EMAS)** which was developed by the European Commission which is used by nearly 5,000 organisations and **BS 8555** developed by the British Standards Institute (BSI) which offers a phased approach to environmental management which is seen as being more manageable for smaller businesses.
+
+![Typing on a Laptop](_typing.jpg "Photo by NordWood Themes on Unsplash")
+
+## Benefits of an Environmental Management System
+
+There are many benefits to having an EMS which include:
+
+* A reduction in and continual improvement of your impact on the environment
+* Improved efficiency of resource use which saves money
+* Compliance with environmental legislation and reduced litigation
+* Enhanced reputation and image with staff, customers and investors
+* Better monitoring of environmental performance
+
+## How to Manage Your EMS
+
+A successful EMS is something that evolves over time along with the business. This is essential to making sure that your impact on the environment is reduced as far as is possible and ensures that you are complying with any new or changed legislation.
+
+An EMS also requires management as it is necessary to check and report on performance and to implement any corrective actions to ensure that any objectives and targets are being met.
+
+When thinking about how you will manage your EMS you should adopt the **PDCA** model which stands for **Plan, Do, Check and Act**. This is actually a cycle which you repeat over time which provides continual improvement - an essential part of an EMS.
+
+The steps are:
+
+* **Plan:** Create an environmental policy and decide on the objectives and processes needed.
+* **Do:** Implement any actions defined by your EMS.
+* **Check:** Monitor and measure performance against your EMS.
+* **Act:** Monitor your performance and take any corrective actions required for improvement.
+
+![Items on a Desktop](_desktop.jpg "Photo by Dose Media on Unsplash")
+
+## Step 1: Create an EMS Manual and Set Your Scope
+
+The first thing you should do is to create a document which sets out your approach to your EMS. This is typically called an **EMS Manual**.
+
+The first thing you should write in your EMS Manual is your **Scope**. This is a statement which sets out what you hope to achieve with your EMS and is likely to include some, or all, of the bullet points listed above which highlight the benefits.
+
+You should also make reference to any standard you are using, such as ISO 14001:2015, and reference that your EMS Manual will describe the activities that you will undertake to ensure that you meet that standard’s requirements (we'll get to that!).
+
+Finally, your scope should include a reference to what business activities are being covered by your EMS. That is to say you should state the name of the business, a description of business activities and any locations where the standard applies. In most cases this will refer to any premises used by the business but may also extend to other locations such as customer sites or venues used by the business.
+
+![Binoculars](_binoculars.jpg "Photo by Matt LaVasseur on Unsplash")
+
+## Step 2: Identify Your Environmental Aspects
+
+Before you can set your objectives or write your environmental policy you will need to identify how your business interacts with the environment and how much impact these interactions have.
+
+Within, or in addition to, the EMS Manual you will want to create an **Environmental Aspects and Impacts Procedure and Register** where you can record impacts and document the process you used to do this.
+
+Start by identifying your **Environmental Aspects**. These are all the different ways in which your organisation can, or does, interact with the environment. Bear in mind that you can have **Direct Environmental Aspects** which are under your control (such as emissions from your processes) and **Indirect Environmental Aspects** (such as emissions from companies in your supply chain) which you can influence but not control.
+
+It would also be helpful at this point to define what is actually meant by the **Environment**. The environment is described as the surroundings in which an organisation operates including air, water, land, natural resources, flora, fauna, humans and their interrelationships.
+
+![Countryside](_countryside.jpg "Photo by Federico Respini on Unsplash")
+
+Within your Environmental Aspects and Impacts Procedure and Register you will want to document the procedure you use for identifying your environmental aspects. One approach might be to create an inventory of all your processes and activities and note down any aspects that occur or could occur. You should therefore consider your operations under typical circumstances but also the aspects which might arise in the event of an incident, accident or emergency.
+
+The sorts of things you should be considering include:
+
+* Emissions to air
+* Emissions to, or releases into, water
+* Emissions to, or contamination of, land
+* Use of resources and any waste produced
+* Interactions with the local community or environment including visual, sound and vibration nuisance
+
+Some of the activities you should consider include:
+
+* Energy use
+* Water use and wastewater management
+* Waste material management
+* Travel emissions
+* Pollution which might arise in an accident or emergency
+* Actions of suppliers
+* Actions of customers
+* Impacts on local wildlife and communities
+
+It it worth noting that one process or activity might create numerous environmental aspects. For example, a company that chops down trees to create wooden sheds might have the following environmental aspects just for the felling of the trees:
+
+* Over consumption of natural resources
+* Habitat destruction 
+* Noise from chainsaw
+* Emissions to air from petrol chainsaw
+
+![Logs and Trees](_logs.jpg "Photo by Meritt Thomas on Unsplash")
+
+## Step 3: Identify Your Environmental Impacts
+
+Once you have your environmental aspects listed you should determine their **Environmental Impact**. To do this you should consider the effect the aspect will have on the environment bearing in mind any existing controls you might have along with their severity and frequency. You should also consider any legal penalties and damage to your reputation which might also arise from these impacts.
+
+Let’s take the four environmental aspects from the tree felling example above and determine what the impacts might be:
+
+|                 Aspect                |                                                                                      Impact                                                                                      |
+|:-------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Over consumption of natural resources | Depletion of raw materials and biomass sources of energy, soil erosion, loss of soil cover and flooding which might possibly lead to a lack of future materials for the business |
+|          Habitat destruction          |                                Loss of biodiversity and depletion of fauna and flora which may lead to fines, litigation and damage to reputation                                |
+|          Noise from chainsaw          |                                                             Noise pollution disturbing local wildlife and communities                                                            |
+| Emissions to air from petrol chainsaw |                         Release of greenhouse gases leading to global warming and the release of sulphur dioxide and nitrogen oxides leading to acid rain                        |
+
+It is important for the purpose of the EMS that you determine which of your environmental impacts are **Significant Impacts** and therefore the ones which you should try to eliminate or reduce as a priority. To do this you will need to try and quantify the impact which is highly subjective and therefore can be quite difficult.
+
+![Footprints on a Beach](_footprints.jpg "Photo by Dimitri Houtteman on Unsplash")
+
+One of the most common ways to determine how significant an impact is would be to give each impact a score for its **Severity** (how devastating the impact would be) and a score for its **Probability** (the likelihood of the impact occurring). You then multiply the scores together to get an overall significance, or consequence, rating. This is also known as a **Risk Rating**.
+
+You could use the following scoring methodology to determine the severity of your impacts:
+
+| Severity | Description                                                       |
+|:--------:|-------------------------------------------------------------------|
+|     1    | Very low (causing a negligible impact on the environment)         |
+|     2    | Low (causing marginal short-term repairable damage)               |
+|     3    | Intermediate (causing medium term repairable damage)              |
+|     4    | High (causing critical, long-term ,but largely repairable damage) |
+|     5    | Very high (causing catastrophic, long-term, irreparable damage)   |
+
+You could use the following scoring methodology to determine the probability of your impacts:
+
+| Probability | Description                                       |
+|:-----------:|---------------------------------------------------|
+|      1      | Highly unlikely (occurring less than once a year) |
+|      2      | Unlikely (occurring 1-2 times a year)             |
+|      3      | Possible (occurring less than once a month)       |
+|      4      | Likely (occurring less than once a week)          |
+|      5      | Highly likely (occurring daily)                   |
+
+By multiplying the two scores you will get a risk rating. You could determine that:
+
+* A score under 9 is low risk
+* A score between 9 and 12 is a moderate risk
+* A score over 12 is a high and significant risk
+
+It is recommended that you list all your aspects, impacts and risk rating scores in your environmental aspects and impacts procedure and register but you should highlight those that are deemed to have a high and significant risk rating. You may wish to also review aspects with moderate impacts if they have the potential to create significant impacts.
+
+![Plastic Waste on a Beach](_checklist.jpg "Photo by Glenn Carstens-Peters on Unsplash")
+
+You should update this register when new aspects are identified such as when new activities, processes or procedures are introduced or changed or when an incident takes place that has an impact on the environment.
+
+You should also consider environmental impacts during the planning stage of product, service or process development alongside the planning of other activities in your business such as training, operational controls and emergency planning.
+
+## End of Part One
+
+That's the end of part 1 of this guide. Part 2 will be published shortly which will cover the writing of the environmental policy, how you evaluate your compliance with regulatory requirements and we'll also look at what resources, roles and responsibilities are needed to ensure that your EMS is successful.

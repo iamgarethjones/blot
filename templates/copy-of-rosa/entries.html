@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  {{> head}}
+  <body>
+    {{> sidebar}}
+    {{#entries}}
+    <div class="entry">
+      {{{html}}}
+    </div>
+    <div class="light">{{#date}}
+      <a href="{{{url}}}" title="{{title}}">{{date}}</a>
+      {{/date}}{{#tags}}
+      · <a title="Everything tagged {{name}}" href="/tagged/{{slug}}">{{name}}</a>
+      {{/tags}}</div>
+    <hr class="full"/>
+    {{/entries}}
+    <div class="entryfooter"><p class="entry" style="text-align:center">View the <a href="/archives">archives</a>, get the <a href="/feed.rss">feed</a> or <a href="/search">search</a>.</p>
+    </div>
+    {{> footer}}
+  </body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  {{> head}}
+  <body>
+    {{> sidebar}}
+    <h1>Articles</h1>
+    <div class="entry">
+      {{#archives}}
+      {{#months}}
+      {{#entries}}
+      <a href="{{{url}}}" title="{{title}}">{{title}}</a> <span class="light">{{date}}</span>
+      <br />
+      {{/entries}}
+      {{/months}}
+      {{/archives}}
+    </div>
+    {{> footer}}
+  </body>
+</html>
